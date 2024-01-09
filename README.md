@@ -12,7 +12,7 @@ sudah kita kumpulkan, serta melakukan Data Transformation menjadi
 format yang sesuai dengan kebutuhan.
 
 
-Berikut merupakan tantangan yang harus kamu selesaikan:
+*Berikut merupakan tantangan yang harus kamu selesaikan:*
 1. Melakukan Web Scraping untuk mendapatkan Gross Domestic Product (GDP) dari
    provinsi - provinsi di Indonesia di tahun 2022. Kamu bisa mendapatkan data
    tersebut dari page berikut:
