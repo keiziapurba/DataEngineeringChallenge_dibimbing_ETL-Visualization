@@ -2,18 +2,11 @@
 
 ## Overview
 
-Sebagai seorang Data Engineer, kamu memiliki tugas untuk mengolah data
-dari berbagai sumber, melakukan proses Extract, Transform, Load (ETL),
-sampai dengan mempresentasikannya dalam bentuk yang dapat digunakan
-oleh stakeholder. Kamu akan diberikan challenge dalam beberapa area, yaitu
-proses Extract dari berbagai sumber, seperti melakukan Web Scraping dan
-mengintegrasikan API, kemudian melakukan Data Cleansing dari data yang
-sudah kita kumpulkan, serta melakukan Data Transformation menjadi
-format yang sesuai dengan kebutuhan.
-
+### 🔊 Sebagai seorang **Data Engineer**, kamu memiliki tugas untuk mengolah data dari berbagai sumber, melakukan proses **Extract, Transform, Load (ETL)**,sampai dengan mempresentasikannya dalam bentuk yang dapat digunakan oleh stakeholder. Kamu akan diberikan challenge dalam beberapa area, yaitu proses **Extract** dari berbagai sumber, seperti melakukan **Web Scraping** dan mengintegrasikan **API**, kemudian melakukan **Data Cleansing** dari data yang sudah kita kumpulkan, serta melakukan **Data Transformation** menjadi format yang sesuai dengan kebutuhan.
+---
 
 ### Berikut merupakan tantangan yang harus kamu selesaikan:
-1. Melakukan Web Scraping untuk mendapatkan Gross Domestic Product (GDP) dari
+1. Melakukan **Web Scraping** untuk mendapatkan Gross Domestic Product (GDP) dari
    provinsi - provinsi di Indonesia di tahun 2022. Kamu bisa mendapatkan data
    tersebut dari page berikut:
    https://en.wikipedia.org/wiki/List_of_Indonesian_provinces_by_GDP
@@ -23,9 +16,9 @@ format yang sesuai dengan kebutuhan.
    
 
 2. Setelah data tersimpan dalam bentuk DataFrame, kamu perlu melakukan beberapa
-   Data Cleansing.
+   **Data Cleansing**.
    
-   a. Data yang mengandung null values
+   a. Data yang mengandung **null values**
    
 <img width="556" alt="Screenshot 2024-01-10 at 09 57 35" src="https://github.com/keiziapurba/DataEngineeringChallenge_dibimbing_ETL-Visualization/assets/91368463/eaa0c2f5-249c-4dd7-a438-07a761372e06">
 
@@ -44,7 +37,7 @@ format yang sesuai dengan kebutuhan.
 
 3. Setelah mendapatkan data GDP masing - masing provinsi di Indonesia, kamu perlu
    untuk mendapatkan koordinat latitude dan longitude dari provinsi - provinsi tersebut
-   dengan menggunakan Application Programming Interface (API).
+   dengan menggunakan **Application Programming Interface (API)**.
    
    a. Kamu bisa menggunakan Geocoding API dari website ini:
       https://opencagedata.com/
@@ -78,15 +71,15 @@ format yang sesuai dengan kebutuhan.
 <img width="278" alt="Screenshot 2024-01-10 at 10 00 55" src="https://github.com/keiziapurba/DataEngineeringChallenge_dibimbing_ETL-Visualization/assets/91368463/4e8997e7-8988-4225-9bad-3837675d8ee8">
 
    
-   c. Terakhir, lakukan Data Enrichment dengan menambahkan kolom lat_long yang
-      berisi gabungan dari kolom latitude dan longitude
+   c. Terakhir, lakukan Data Enrichment dengan menambahkan kolom `lat_long` yang
+      berisi gabungan dari kolom `latitude` dan `longitude`
 
 
 <img width="553" alt="Screenshot 2024-01-10 at 10 01 15" src="https://github.com/keiziapurba/DataEngineeringChallenge_dibimbing_ETL-Visualization/assets/91368463/bd093741-a1d2-49ae-85fc-c1017dbfcd0f">
 
    
 
-5. 🎁 Bonus Challenge 🎁
+5. 🎁 **Bonus Challenge** 🎁
        
     Buatlah report dengan memanfaatkan data yang sudah kita buat dengan
     melakukan Data Load dan Data Visualization
