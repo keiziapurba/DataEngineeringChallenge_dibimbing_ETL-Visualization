@@ -86,3 +86,4 @@
 
 <img width="534" alt="Screenshot 2024-01-10 at 10 01 55" src="https://github.com/keiziapurba/DataEngineeringChallenge_dibimbing_ETL-Visualization/assets/91368463/9e79c9fb-23c2-4653-a371-c1168890f8b9">
 
+You can check out the [Interactive Visualization](https://lookerstudio.google.com/reporting/2557c95e-5633-4733-853d-02fd15b9b8b8) of this project.
